@@ -1,3 +1,5 @@
 # HealthTrack
 
-Project to understand and create an offline habit tracking software that stores data locally and manually updates them, with focus on privacy.
+Project to understand and create an offline habit tracking software that stores data locally and manually updates them, with avaibility for multiple users.
+
+Main.py is the main folder, run it to start.
